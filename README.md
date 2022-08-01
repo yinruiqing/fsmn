@@ -2,7 +2,7 @@
 Feedforward Sequential Memory Networks
 
 PyTorch implementations for FSMN (Feedforward Sequential Memory Networks), cFSMN (Compact FSMN), DFSMN (Deep-FSMN).
-Still in development.
+Still in development (It will be implemented in two ways: linear product and conv1d.).
 
 The code is modified from [tensorflow](https://github.com/katsugeneration/tensor-fsmn) version.
 
